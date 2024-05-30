@@ -1,0 +1,223 @@
+[
+    {
+      "name": "Jamun",
+      "ID":"D20241",
+      "desc":"I'm avery aorable,sweet,smart buddy. Looking for my permanent home",
+      "type":"Dog",
+      "species": "Indi",
+      "age": "2 years",                                         
+      "weight": "5",
+      "sex": "Male",
+      "image": "images/dogs/Indi.jpeg"
+    },
+    {
+      "name": "Jimmy",
+      "ID":"D20242",
+      "desc":"Hello!! I just can't stop my wagging my tail. Can I be one of your family?!",
+      "type":"Dog",
+      "species": "Shepherd",
+      "age": "3 years",
+      "weight": "3.5",
+      "sex": "Male",
+      "image": "images/dogs/Shepherd.jpeg"
+    },
+    {
+      "name": "Naina",
+      "ID":"D20243",
+      "desc":"Hola! I think we're going to be great friends, I love butterflies. Do you?",
+      "type":"Dog",
+      "species": "Labrador",
+      "age": "1 year",
+      "weight": "2.3",
+      "sex": "Female",
+      "image": "images/dogs/Labra.jpeg"
+    },
+    {
+      "name": "Oreo",
+      "ID":"C20241",
+      "desc":"I'm a very sweet,gentle,loving,quiet cat.I love a good belly rub.",
+      "type":"Cat",
+      "species": "Bombay cat",
+      "age": "1 year",
+      "weight": "2",
+      "sex": "Male",
+      "image": "images/cats/Bomb.jpeg"
+    },
+    {
+      "name": "Bob",
+      "ID":"D20244",
+      "desc":"I'm strong, big laid back buddy. But I love chewing doggie toys. Can you buy one for me ?? ", 
+      "type":"Dog",
+      "species": "Bulldog",
+      "age": "3 years",
+      "weight": "5",
+      "sex": "Male",
+      "image": "images/dogs/Bull.jpeg"
+    },
+    {
+      "name": "Lara",
+      "ID":"D20245",
+      "desc":"I'm a happy doggo, looking to live my best life with my new family.",
+      "type":"Dog",
+      "species": "Golden Retriever",
+      "age": "3 years",
+      "weight": "4.2",
+      "sex": "Female",
+      "image": "images/dogs/Gold.jpeg"
+    },
+    {
+      "name": "Julie",
+      "ID":"D20246",
+      "desc":"I'm an extremely loving & active dog.I love to play & run around. I'm very loyal to my owner.",
+      "type":"Dog",
+      "species": "Beagle",
+      "age": "2 years",
+      "weight": "2.6",
+      "sex": "Female",
+      "image": "images/dogs/Beagle.jpeg"
+    },
+    {
+      "name": "Layla",
+      "ID":"C20242",
+      "desc":"I'm a vivacious,confident kitten. I may be tiny but my personality is big.",
+      "type":"Cat",
+      "species": "Cornish Rex",
+      "age": "2 months",
+      "weight": "0.5",
+      "sex": "Female",
+      "image": "images/cats/Cornish.jpeg"
+    },
+    {
+      "name": "June",
+      "ID":"C20243",
+      "desc":"I'm a brave girl,eager to explore spaces,make new friends with other animals & people.",
+      "type":"Cat",
+      "species": "Sphynx",
+      "age": "5 months",
+      "weight": "0.9",
+      "sex": "Male",
+      "image": "images/cats/Sphynx.jpeg"
+    },
+    {
+      "name": "Salsa",
+      "ID":"D20247",
+      "desc":"I like to make new friends. Will be my friend forever ?!",
+      "type":"Dog",
+      "species": "Dachshund",
+      "age": "4 years",
+      "weight": "3.1",
+      "sex": "Female",
+      "image": "images/dogs/Dach.jpeg"
+    },
+    {
+      "name": "Kanya",
+      "ID":"D20248",
+      "desc":"I'm a very docile & good behaviour.But don't let that fool you. Hehe!",
+      "type":"Dog",
+      "species": "Chihuahua",
+      "age": "1 year",
+      "weight": "2",
+      "sex": "Female",
+      "image": "images/dogs/Chichu.jpeg"
+    },
+    {
+      "name": "Keti",
+      "ID":"D20249",
+      "desc":"I'm a dainty & gentle girl,eager to explore spaces & indulge in a good belly rub.",
+      "type":"Dog",
+      "species": "Pomeranian",
+      "age": "2 years",
+      "weight": "2.9",
+      "sex": "Female",
+      "image": "images/dogs/Pomo.jpeg"
+    },
+    {
+      "name": "Nora",
+      "ID":"C20244",
+      "desc":"I'm a happy cat,trying to live my best life & match up with new family.",
+      "type":"Cat",
+      "species": "Ragdoll",
+      "age": "1 year",
+      "weight": "2",
+      "sex": "Female",
+      "image": "images/cats/Ragdoll.jpeg"
+    },
+    {
+      "name": "Willy",
+      "ID":"D202411",
+      "desc":"I'm a gentleman. I got a title as'The happiest dog'.I love being clean & tidy. ",
+      "type":"Dog",
+      "species": "Maltipoo",
+      "age": "1 year",
+      "weight": "2",
+      "sex": "Male",
+      "image": "images/dogs/Maltipoo.jpeg"
+    },
+    {
+      "name": "Flash",
+      "ID":"D202412",
+      "desc":"Stronglu build guy.I may look tough,but I'm still a pup with my beloved ones.",
+      "type":"Dog",
+      "species": "Grey Hound",
+      "age": "5 years",
+      "weight": "4",
+      "sex": "Male",
+      "image": "images/dogs/Grey.jpeg"
+    },
+    {
+      "name": "Pepper",
+      "ID":"D202413",
+      "desc":"I'm a quirky & furry doggo.I love warm hugs from my beloved ones.",
+      "type":"Dog",
+      "species": "Husky",
+      "age": "1 year",
+      "weight": "1",
+      "sex": "Female",
+      "image": "images/dogs/Pepper.jpeg"
+    },
+    {
+      "name": "Tiger",
+      "ID":"C20245",
+      "desc":"I'm a hyperactive cat. Love chasing laser spots,won't believe me ? Then take me to your home.",
+      "type":"Cat",
+      "species": "Toyger",
+      "age": "2 year",
+      "weight": "2",
+      "sex": "Female",
+      "image": "images/cats/Toyger.jpeg"
+    },
+    {
+      "name": "Frank",
+      "ID":"D202414",
+      "desc":"I bark at the sound of hustle near the home.I look cute & can be a great bodyguard.",
+      "type":"Dog",
+      "species": "Cocker Spaniel",
+      "age": "3 years",
+      "weight": "3.2",
+      "sex": "Male",
+      "image": "images/dogs/Cocker.jpeg"
+    },
+    {
+      "name": "Breeze",
+      "ID":"D202415",
+      "desc":"I'm a responsible & friendly dog.I'm the most lovable one. I love  warm evening walks.",
+      "type":"Dog",
+      "species": "Collie",
+      "age": "2 years",
+      "weight": "4",
+      "sex": "Female",
+      "image": "images/dogs/Collie.jpeg"
+    },
+    {
+      "name": "Ice",
+      "ID":"D202416",
+      "desc":"Are you looking for a jogging or walking partner? Well! I'm the one. When should I join you !?",
+      "type":"Dog",
+      "species": "Dalmation",
+      "age": "1 year",
+      "weight": "4",
+      "sex": "Male",
+      "image": "images/dogs/Dalmation.jpeg"
+    }
+  ]
+  
